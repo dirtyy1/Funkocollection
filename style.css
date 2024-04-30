@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(87, 87, 171);
+    color:rgb(217, 206, 227);
+    font-size: 30px;
+}
+h1{
+    color:rgb(255, 255, 255);
+    text-align: center;
+}
+p {
+    color:antiquewhite;
+    text-align: left;
+}
+h2{
+    text-align: right;
+    background-color:rgb(246, 166, 182);
+}
+header{
+    height: 200px;
+    background-color:rgb(207, 155, 155);
+}
+nav{
+    height: 150px;
+    background-color:rgb(153, 149, 149);
+}
+main{
+height: 500px;
+background-color:rgb(121, 133, 143);
+}
+footer{
+    height: 100px;
+    background-color:rgb(246, 166, 182);
+}
+a{
+    border:2px solid palevioletred;
+    border-radius:20px;
+    background-color:pink;
+    text-decoration: none;
+    padding: 10px;
+    margin: 20px;
+}
